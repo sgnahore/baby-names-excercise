@@ -1,15 +1,25 @@
-.allNames{
+p {
+    /* white-space: normal;
+    display: inline-block; */
     display: flex;
-    align-content: stretch; 
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: start;
+    align-items: auto;
+    align-content: start
+  }
+  
+  /* .allNames {
+    display: flex;
+    align-content: stretch;
     justify-content: first baseline;
-    
-}
-
-.femaleNames{
+  } */
+  
+  .femaleNames {
     background-color: aquamarine;
-    display: flex;
-}
-
-.maleNames{
+  }
+  
+  .maleNames {
     background-color: blueviolet;
-}
+  }
+  
