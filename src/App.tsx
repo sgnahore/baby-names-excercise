@@ -1,7 +1,13 @@
-import { greet } from "./utils/greet";
+import Arrangement from "./components/Arrangement";
+import NamesFilter from "./components/NamesFilter";
 
 function App(): JSX.Element {
-  return <h1>{greet("World")}</h1>;
+  return(
+  <>
+ <Arrangement />
+ <NamesFilter />
+  </>
+  );
 }
 
 export default App;
