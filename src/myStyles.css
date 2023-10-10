@@ -1,0 +1,32 @@
+.main {
+  border-style: solid;
+  font-size: 24px;
+  border-width: 5px;
+  border-color: lightblue;
+  border-radius: 10px;
+}
+.blue {
+  margin-top: 3px;
+  margin-left: 3px;
+  border-radius: 10px;
+  padding: 10px 15px;
+  background-color: #bde0fe;
+}
+.pink {
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-left: 5px;
+  border-radius: 10px;
+  text-decoration: double;
+  padding: 10px 15px;
+  background-color: #f4acb7;
+}
+.all {
+  margin-top: 3px;
+  margin-bottom: 3px;
+  margin-left: 5px;
+  border-radius: 10px;
+  text-decoration: double;
+  padding: 10px 15px;
+  background-color: #afafaf;
+}
