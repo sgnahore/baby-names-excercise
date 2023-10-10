@@ -135,5 +135,4 @@ function App(): JSX.Element {
     </body>
   );
 }
-
 export default App;
