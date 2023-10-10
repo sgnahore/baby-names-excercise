@@ -11,8 +11,13 @@
   },
   {
     "id": 2,
+<<<<<<< HEAD
     "name": "Avah",
     "sex": "f"
+=======
+    "name": "Adam",
+    "sex": "m"
+>>>>>>> main
   },
   {
     "id": 3,
@@ -853,5 +858,18 @@
     "id": 186,
     "name": "Ozella",
     "sex": "f"
+<<<<<<< HEAD
+=======
+  },
+  {
+    "id": 187,
+    "name": "Tomasz",
+    "sex": "m"
+  },
+  {
+    "id": 188,
+    "name": "Ela",
+    "sex": "f"
+>>>>>>> main
   }
 ]
